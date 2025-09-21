@@ -51,7 +51,9 @@ Together, these models provide **diverse approaches** for exploring the dataset 
 
 ---
 
-## 🚀 How to Run (to be updated as project progresses)  
+## 🚀 How to Watch the Report or Run Code(to be updated as project progresses)
+- Go to this link to see the report: [**traffic-accident-severity-analysis.ipynb**](https://github.com/annashen98/traffic-accident-severity/blob/f00b2ca4ab5c6d9a5801d1e4e42c57c86026a6e6/traffic-accident-severity-analysis.ipynb)
+- Run the code below to clone this repo
 ```bash
 # Clone the repository
 git clone https://github.com/annashen98/traffic-accident-severity.git
