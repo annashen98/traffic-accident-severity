@@ -60,4 +60,4 @@ git clone https://github.com/annashen98/traffic-accident-severity.git
 cd traffic-accident-severity
 
 # Run the main script
-CASA0006.ipynb
+traffic-accident-severity-analysis.ipynb
